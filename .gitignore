@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Kotlin / Android / JetBrains
+.idea/
+.gradle/
+build/
+local.properties
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
